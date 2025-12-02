@@ -504,8 +504,8 @@ const findPositionInZone = (newItem, existingItems, zoneConfig) => {
 
 // Doctor's Notes Zone boundaries
 const DOCTORS_NOTE_ZONE = {
-  x: 2600,
-  y: 11400,
+  x: 2680,
+  y: 13200,
   width: 2000,
   height: 2100,
 };
